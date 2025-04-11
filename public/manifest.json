@@ -1,7 +1,7 @@
 {
-  "manifest_version": 1,
   "name": "Hello World Addon",
   "version": "1.0.0",
+  "manifest_version": 1,
   "scripts": {
     "start": "start.js",
     "manifest": "manifest.json"
